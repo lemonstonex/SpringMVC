@@ -17,7 +17,7 @@ import java.util.UUID;
 
 @Data
 @Entity
-public class PurchaseOrder {
+public class PurchaseOrder { // Napasamon Siribanjong 6410406703
     @Id
     @GeneratedValue
     private UUID id;

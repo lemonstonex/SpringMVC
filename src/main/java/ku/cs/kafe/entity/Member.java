@@ -13,7 +13,7 @@ import java.util.UUID;
 
 @Data
 @Entity
-public class Member {
+public class Member { // Napasamon Siribanjong 6410406703
 
 
     @Id

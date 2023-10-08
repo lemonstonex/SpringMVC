@@ -14,7 +14,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @EqualsAndHashCode
 @Embeddable
-public class OrderItemKey implements Serializable {
+public class OrderItemKey implements Serializable { // Napasamon Siribanjong 6410406703
 
 
     @Column(name = "order_id")

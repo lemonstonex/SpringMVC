@@ -16,7 +16,7 @@ import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 
 @Configuration
 @EnableWebSecurity
-public class SecurityConfig {
+public class SecurityConfig { // Napasamon Siribanjong 6410406703
 
     @Autowired
     private UserDetailsServiceImp userDetailsService;

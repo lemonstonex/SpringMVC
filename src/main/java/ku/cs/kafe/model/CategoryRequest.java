@@ -6,7 +6,7 @@ import lombok.Data;
 
 
 @Data
-public class CategoryRequest {
+public class CategoryRequest { // Napasamon Siribanjong 6410406703
     private String name;
 }
 

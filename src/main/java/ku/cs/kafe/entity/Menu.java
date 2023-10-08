@@ -14,7 +14,7 @@ import java.util.UUID;
 
 @Data
 @Entity
-public class Menu {
+public class Menu { // Napasamon Siribanjong 6410406703
     @Id
     @GeneratedValue
     private UUID id;

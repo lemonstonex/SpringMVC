@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
-
+// Napasamon Siribanjong 6410406703
 @Repository
 public interface MemberRepository extends JpaRepository<Member, UUID> {
     Member findByUsername(String username);

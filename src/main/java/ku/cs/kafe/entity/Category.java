@@ -12,7 +12,7 @@ import java.util.UUID;
 
 @Data
 @Entity
-public class Category {
+public class Category { // Napasamon Siribanjong 6410406703
 
 
     @Id

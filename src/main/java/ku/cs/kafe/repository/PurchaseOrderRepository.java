@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
-
+// Napasamon Siribanjong 6410406703
 @Repository
 public interface PurchaseOrderRepository
         extends JpaRepository<PurchaseOrder, UUID> {

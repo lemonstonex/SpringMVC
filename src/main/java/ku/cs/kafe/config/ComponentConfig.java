@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class ComponentConfig {
+public class ComponentConfig { // Napasamon Siribanjong 6410406703
 
     @Bean
     public ModelMapper modelMapper() {

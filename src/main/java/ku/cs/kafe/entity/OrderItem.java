@@ -8,7 +8,7 @@ import lombok.Data;
 // กับคลาส purchaseitem กับ menu ที่เชื่อมด้วย id
 @Data
 @Entity
-public class OrderItem {
+public class OrderItem { // Napasamon Siribanjong 6410406703
 
     @EmbeddedId
     private OrderItemKey id;

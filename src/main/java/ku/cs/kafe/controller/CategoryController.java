@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/categories")
-public class CategoryController {
+public class CategoryController { // Napasamon Siribanjong 6410406703
 
 
     @Autowired

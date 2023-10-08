@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 // แก้ signupservice เพื่อ map ระหว่าง request and member
 
 @Service
-public class SignupService {
+public class SignupService { // Napasamon Siribanjong 6410406703
 
 
     @Autowired
